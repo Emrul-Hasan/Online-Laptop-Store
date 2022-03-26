@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "IPad Pro",
+        "price": 1099,
+        "image": "https://cdn0.vox-cdn.com/hermano/verge/product/image/9586/iPad-SQ.jpg "
+    },
+    {
+        "id": "2",
+        "name": "Dell Inspiron 15-5570",
+        "price": 500,
+        "image": "https://laptoping.com/specs/wp-content/uploads/2018/11/Dell-Inspiron-15-5570-i5570-5279SLV-PUS.jpg "
+    },
+    {
+        "id": "3",
+        "name": "HP Pavilio 14",
+        "price": 600,
+        "image": " https://hk-files.apjonlinecdn.com/npi/hp-pavilion-14-laptops/rich-content/images/content-row-background-8-mobile.jpg"
+    },
+    {
+        "id": "4",
+        "name": "HP Notebook 15",
+        "price": 520,
+        "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06586248.png "
+    },
+    {
+        "id": "5",
+        "name": "LG Gram 17-inch",
+        "price": 1849,
+        "image": "https://cdn.vox-cdn.com/thumbor/Dnpzttqu01077_vIi2iabeKatBo=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69073751/cfaulkner_20210326_4491_0006.0.jpg "
+    },
+    {
+        "id": "6",
+        "name": "Apple MacBook Air 13",
+        "price": 986,
+        "image": "https://www.tradeinn.com/f/13787/137870845/apple-macbook-air-13-m1-8gb-256gb-ssd-laptop.jpg "
+    },
+    {
+        "id": "7",
+        "name": "Samsung Glaxy Book Pro",
+        "price": 1306,
+        "image": "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODFmRWtsZk5HU1MuX0FDX1NMMTUwMF8uanBn.jpg "
+    },
+    {
+        "id": "8",
+        "name": "Samsung NoteBook Plus 2",
+        "price": 1033,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/hk_en/feature/107655846/hk_en-feature-sleek--solid-design-371072992?$FB_TYPE_A_MO_JPG$"
+    },
+    {
+        "id": "9",
+        "name": "Sony Vaio E Series",
+        "price": 853,
+        "image": "https://cdn.pocket-lint.com/r/s/1200x/assets/images/115526-laptops-news-hands-on-sony-vaio-e-series-pictures-and-hands-on-image1-a8QlyLG76W.jpg"
+    }
+]
